@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { TiThMenu } from 'react-icons/ti';
 import Brand from './Brand';
-import Menu from './MEnu';
+import Menu from './Menu';
 import Nav from './Nav';
 
 function Header() {
